@@ -218,7 +218,4 @@ This project is for educational and hackathon purposes.
 
 How should we pivot our supply chain to mitigate geopolitical risk while maintaining 15% margins?- This input is there as an example for seeing how does the report work
 
-<img width="1890" height="832" alt="Screenshot 2026-04-30 203718" src="https://github.com/user-attachments/assets/e9c7d872-3f39-4351-b022-f5f8e1a701b0" />
-<img width="1885" height="835" alt="Screenshot 2026-04-30 203710" src="https://github.com/user-attachments/assets/f1b56239-7312-4864-a42e-dba31e590e83" />
-<img width="1887" height="817" alt="Screenshot 2026-04-30 203643" src="https://github.com/user-attachments/assets/493b3a41-6e20-45e7-8911-87827b3556c5" />
-<img width="1899" height="827" alt="Screenshot 2026-04-30 203613" src="https://github.com/user-attachments/assets/72bdda4a-fee6-443d-98ec-2317b2129077" />
+
