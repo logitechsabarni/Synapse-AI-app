@@ -1,80 +1,14 @@
+<img width="495" height="352" alt="stackup participation certificate" src="https://github.com/user-attachments/assets/4010108f-be86-4efd-a149-967fdcb1240c" />
+<img width="1920" height="1008" alt="Screenshot 2026-04-30 204419" src="https://github.com/user-attachments/assets/52fadd14-9ff5-4e98-9a0c-ae3700f00ead" />
+<img width="1890" height="832" alt="Screenshot 2026-04-30 203718" src="https://github.com/user-attachments/assets/1b4a9935-1a89-4833-beee-996c000dcf6a" />
+<img width="1885" height="835" alt="Screenshot 2026-04-30 203710" src="https://github.com/user-attachments/assets/58e5c24f-b621-4961-8e49-96b7dde1c04f" />
+<img width="1887" height="817" alt="Screenshot 2026-04-30 203643" src="https://github.com/user-attachments/assets/721361cd-f588-4704-9d6e-c44e1e250b63" />
+<img width="1899" height="827" alt="Screenshot 2026-04-30 203613" src="https://github.com/user-attachments/assets/55d3fb96-dd13-40f7-947f-274e37d58670" />
 
 
 
 
 
-<img width="1890" height="832" alt="Screenshot 2026-04-30 203718" src="https://github.com/user-attachments/assets/c9707d19-eed1-47d1-b099-c109627e644e" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img width="885" height="85" alt="Screenshot 2026-04-30 203710" src="https://github.com/user-attachments/assets/2393be94-5b7d-499c-b3e6-08a850841bd7" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img width="1885" height="812" alt="Screenshot 2026-04-30 203643" src="https://github.com/user-attachments/assets/14c07434-908a-4e1d-8a59-787d62ec41f2" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img width="1899" height="827" alt="Screenshot 2026-04-30 203613" src="https://github.com/user-attachments/assets/21b3e224-8254-40f5-839a-1ca24bc7c86c" />
 
 
 
