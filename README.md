@@ -1,15 +1,24 @@
 <img width="1890" height="832" alt="Screenshot 2026-04-30 203718" src="https://github.com/user-attachments/assets/b21bbb8f-113e-47fa-98d8-47f0196a78fe" />
+
+
+
 <img width="1890" height="832" alt="Screenshot 2026-04-30 203718" src="https://github.com/user-attachments/assets/c9707d19-eed1-47d1-b099-c109627e644e" />
+
+
+
 <img width="1885" height="835" alt="Screenshot 2026-04-30 203710" src="https://github.com/user-attachments/assets/2393be94-5b7d-499c-b3e6-08a850841bd7" />
+
+
+
 <img width="1887" height="817" alt="Screenshot 2026-04-30 203643" src="https://github.com/user-attachments/assets/14c07434-908a-4e1d-8a59-787d62ec41f2" />
+
+
+
 <img width="1899" height="827" alt="Screenshot 2026-04-30 203613" src="https://github.com/user-attachments/assets/21b3e224-8254-40f5-839a-1ca24bc7c86c" />
-Here’s a clean, **hackathon/portfolio-ready README** for your project (Cloud Run + Flask + React + Gemini integration). You can directly copy this.
 
----
 
-# 📌 README.md
 
-```markdown
+
 # 🚀 AI Synapse (Full-Stack AI Web App)
 
 An AI-powered full-stack web application built with **Flask (backend)** and **React (frontend)**, integrated with **Google Gemini API** and deployed on **Google Cloud Run**.
@@ -224,7 +233,7 @@ This project is for educational and hackathon purposes.
 How should we pivot our supply chain to mitigate geopolitical risk while maintaining 15% margins?- This input is there as an example for seeing how does the report work and workspace works.
 
 
-<img width="1899" height="827" alt="Screenshot 2026-04-30 203613" src="https://github.com/user-attachments/assets/66d7e244-70db-4b6e-8886-8bf811d35793" />
+
 
 
 
