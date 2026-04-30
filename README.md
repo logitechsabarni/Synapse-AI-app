@@ -216,4 +216,5 @@ This project is for educational and hackathon purposes.
 
 ```
 
+How should we pivot our supply chain to mitigate geopolitical risk while maintaining 15% margins?- This input is there as an example for seeing how does the report work
 
