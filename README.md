@@ -1,23 +1,24 @@
-<img width="495" height="352" alt="stackup participation certificate" src="https://github.com/user-attachments/assets/4010108f-be86-4efd-a149-967fdcb1240c" />
-<img width="1920" height="1008" alt="Screenshot 2026-04-30 204419" src="https://github.com/user-attachments/assets/52fadd14-9ff5-4e98-9a0c-ae3700f00ead" />
-<img width="1890" height="832" alt="Screenshot 2026-04-30 203718" src="https://github.com/user-attachments/assets/1b4a9935-1a89-4833-beee-996c000dcf6a" />
-<img width="1885" height="835" alt="Screenshot 2026-04-30 203710" src="https://github.com/user-attachments/assets/58e5c24f-b621-4961-8e49-96b7dde1c04f" />
-<img width="1887" height="817" alt="Screenshot 2026-04-30 203643" src="https://github.com/user-attachments/assets/721361cd-f588-4704-9d6e-c44e1e250b63" />
-<img width="1899" height="827" alt="Screenshot 2026-04-30 203613" src="https://github.com/user-attachments/assets/55d3fb96-dd13-40f7-947f-274e37d58670" />
-
-
-
-
-
-
-
-
-
 # 🚀 AI Synapse (Full-Stack AI Web App)
 
 An AI-powered full-stack web application built with **Flask (backend)** and **React (frontend)**, integrated with **Google Gemini API** and deployed on **Google Cloud Run**.
 
----
+
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1b4a9935-1a89-4833-beee-996c000dcf6a" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/58e5c24f-b621-4961-8e49-96b7dde1c04f" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/721361cd-f588-4704-9d6e-c44e1e250b63" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/55d3fb96-dd13-40f7-947f-274e37d58670" width="45%"/>
+</p>
+
+
+
+
+
 
 ## 🌐 Live Demo
 
