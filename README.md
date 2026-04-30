@@ -14,6 +14,9 @@ An AI-powered full-stack web application built with **Flask (backend)** and **Re
 </p>
 
 
+How should we pivot our supply chain to mitigate geopolitical risk while maintaining 15% margins?- This input is there as an example for seeing how does the report work and workspace works and as it is mentioned in the images.
+
+
 
 
 
@@ -223,8 +226,6 @@ Built by **Sabarni Guha**
 This project is for educational and hackathon purposes.
 
 ```
-
-How should we pivot our supply chain to mitigate geopolitical risk while maintaining 15% margins?- This input is there as an example for seeing how does the report work and workspace works.
 
 
 
