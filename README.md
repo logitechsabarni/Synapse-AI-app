@@ -1,3 +1,4 @@
+<img width="1899" height="827" alt="Screenshot 2026-04-30 203613" src="https://github.com/user-attachments/assets/21b3e224-8254-40f5-839a-1ca24bc7c86c" />
 Here’s a clean, **hackathon/portfolio-ready README** for your project (Cloud Run + Flask + React + Gemini integration). You can directly copy this.
 
 ---
@@ -216,6 +217,10 @@ This project is for educational and hackathon purposes.
 
 ```
 
-How should we pivot our supply chain to mitigate geopolitical risk while maintaining 15% margins?- This input is there as an example for seeing how does the report work
+How should we pivot our supply chain to mitigate geopolitical risk while maintaining 15% margins?- This input is there as an example for seeing how does the report work and workspace works.
+
+
+<img width="1899" height="827" alt="Screenshot 2026-04-30 203613" src="https://github.com/user-attachments/assets/66d7e244-70db-4b6e-8886-8bf811d35793" />
+
 
 
