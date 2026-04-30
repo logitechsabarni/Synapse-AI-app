@@ -3,6 +3,15 @@
 An AI-powered full-stack web application built with **Flask (backend)** and **React (frontend)**, integrated with **Google Gemini API** and deployed on **Google Cloud Run**.
 
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/721361cd-f588-4704-9d6e-c44e1e250b63" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/55d3fb96-dd13-40f7-947f-274e37d58670" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1b4a9935-1a89-4833-beee-996c000dcf6a" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/58e5c24f-b621-4961-8e49-96b7dde1c04f" width="45%"/>
+</p>
 
 
 
