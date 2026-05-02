@@ -58,28 +58,6 @@ How should we pivot our supply chain to mitigate geopolitical risk while maintai
 - Google Cloud Run
 - Docker (multi-stage build)
 
----
-
-## 📁 Project Structure
-
-```
-
-project/
-│
-├── api.py              # Flask backend
-├── requirements.txt    # Python dependencies
-├── Dockerfile          # Cloud Run deployment
-│
-├── frontend/           # React app (if separate)
-│   ├── src/
-│   ├── package.json
-│   └── vite.config.js
-│
-└── dist/               # Production build (generated)
-
-```
-
----
 
 ## ⚙️ Environment Variables
 
