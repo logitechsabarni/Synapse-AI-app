@@ -13,6 +13,14 @@ An AI-powered full-stack web application built with **Flask (backend)** and **Re
    <img src="https://github.com/user-attachments/assets/1b4a9935-1a89-4833-beee-996c000dcf6a" width="45%"/>
 </p>
 
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/a594fe5f-fd21-49bc-83a9-2d0d11700e9e" width="45%"/>
+   <img src="https://github.com/user-attachments/assets/0503ca82-2577-422a-95a4-cbb275f9e54a" width="45%"/>
+</p>
+
+
+
+
 
 How should we pivot our supply chain to mitigate geopolitical risk while maintaining 15% margins?- This input is there as an example for seeing how does the report work and workspace works and as it is mentioned in the images.
 
