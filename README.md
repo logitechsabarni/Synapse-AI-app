@@ -24,7 +24,7 @@ How should we pivot our supply chain to mitigate geopolitical risk while maintai
 
 ## 🌐 Live Demo
 
-👉 https://ais-dev-adwduvsxwk3u2i3vbqohxv-730312893469.asia-east1.run.app/
+👉 https://ais-pre-5ctnpnicgd26c5hgrvddpn-730312893469.asia-east1.run.app
 
 ---
 
